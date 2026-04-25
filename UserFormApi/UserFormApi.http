@@ -1,0 +1,6 @@
+@UserFormApi_HostAddress = http://localhost:5195
+
+GET {{UserFormApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
